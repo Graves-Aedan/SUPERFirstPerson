@@ -20,7 +20,7 @@ TODO:
 FAQ:
   1.  Q: Why a Mega class? this is C#!
 
-      A: Having mutiplle C# files for every feature can be annoying or even daunting for beginners. It certaintly comes with it's own downfalls, but I like to think the pros out weight the cons.
+      A: Having multiple C# files/Components across the settup can be annoying or even daunting for beginners. It certainly comes with it's own downfalls, but I like to think the pros out weight the cons.
       
   2.  Q: 3rd person animations when?
  
